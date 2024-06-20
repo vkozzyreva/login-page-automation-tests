@@ -26,13 +26,3 @@ To run the automated tests, use the following command:
 
   ```bash
    npm test
-
-
-
-
-
-
-
-    
-
-
