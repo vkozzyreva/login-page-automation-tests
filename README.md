@@ -22,7 +22,7 @@ This project contains automated tests using JavaScript and Playwright to test th
 
 ## Running Tests
 
-1. To run the automated tests, use the following command:
+To run the automated tests, use the following command:
 
   ```bash
    npm test
