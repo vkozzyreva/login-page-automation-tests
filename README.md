@@ -20,9 +20,9 @@ This project contains automated tests using JavaScript and Playwright to test th
    npm install
 
 
-##Running Tests
+## Running Tests
 
-To run the automated tests, use the following command:
+1. To run the automated tests, use the following command:
 
   ```bash
    npm test
